@@ -1,0 +1,25 @@
+{
+  "name": "portainer-skill",
+  "version": "1.0.0",
+  "description": "Portainer skill for OpenClaw",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openclaw",
+    "portainer",
+    "docker",
+    "container",
+    "skill"
+  ],
+  "author": "OpenClaw Team",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  }
+}
