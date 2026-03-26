@@ -1,3 +1,18 @@
+---
+name: portainer
+title: Portainer Skill
+description: OpenClaw 的 Portainer 技能，用于与 Portainer 容器管理平台进行交互
+version: 1.0.0
+author: OpenClaw Team
+license: MIT
+tags:
+  - docker
+  - kubernetes
+  - container-management
+  - portainer
+  - api
+---
+
 # Portainer Skill
 
 OpenClaw 的 Portainer 技能，用于与 Portainer 容器管理平台进行交互。

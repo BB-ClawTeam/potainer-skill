@@ -42,6 +42,20 @@ portainer container status --name my-nginx
 - 访问令牌 (JWT 或 API Key)
 - 默认命名空间
 
+---
+name: portainer
+description: OpenClaw 的 Portainer 技能，用于与 Portainer 容器管理平台进行交互
+version: 1.0.0
+author: OpenClaw Team
+license: MIT
+tags:
+  - docker
+  - kubernetes
+  - container-management
+  - portainer
+  - api
+---
+
 ## API 操作分类
 
 ### 身份认证与授权
